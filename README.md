@@ -13,3 +13,5 @@ First you have to set your app credentials in this environment variables:
 (Visit https://developer.twitter.com/, apply and create an app with write permissions enabled.)
 
 Then you can start it with `go run . <hour>:<minute> "<text>"` (or use a precompiled executable). It will run until you terminate it.
+
+For Windows you can download the .exe and twitterbot.cmd into the same folder, change the .cmd for your needs and doubleclick it.
